@@ -1,4 +1,11 @@
 # CODTECH-Task2
+* **Project Name:** Weather app
+* **Name:** Nihal Kiran Shetty 
+* **ID:** CT08DS1986
+* **Company:** CODTECH IT SOLUTIONS
+* **Domain:** Web Development
+* **Duration:** June - July 2024
+* **Mentor:** SRAVANI GOUNI
 
 
 This code is for a single-page weather application named UrWeather. Here's an overview of the project, including its objective:
@@ -25,7 +32,7 @@ This code is for a single-page weather application named UrWeather. Here's an ov
 **Technologies Used:**
 
 * HTML: Defines the structure of the webpage, including the search bar, buttons, and weather information sections.
-* CSS: Styles the visual elements of the application, including layout, background image, fonts, colors, and formatting.
+* CSS: Styles the visual elements of the application, including layout, background image, fonts, colours, and formatting.
 * JavaScript: Provides interactivity, handling user input (search), fetching weather data from the API, and displaying the weather information and forecast.
 * Bootstrap (optional): A CSS framework used for layout and pre-built components (like buttons).
 

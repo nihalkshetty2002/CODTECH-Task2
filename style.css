@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    background: url(images/digital-art-beautiful-mountains.jpg)  no-repeat scroll;
+    background-size: cover;
+}
+.container 
+{   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.container .weather-container {
+    background: rgba(255, 255, 255, 0.259);
+    padding: 20px;
+    border-radius: 4vh;
+    box-shadow: 20px 15px 35px black;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.text{
+    border-radius: 10px;
+    padding:8px;
+    margin-top:20px;
+    background:url(images/geo-alt-fill.svg) no-repeat scroll 5px 12px;
+    padding-left: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    color: whitesmoke;
+}
+
+.weather-container .btn
+{
+    margin-top: 10px;
+    border-radius: 6vh;
+    background: rgb(154, 86, 86);
+}
+.weather-container .btn:hover
+{
+    background: rgba(0, 0, 0, 0.642);
+    color: rgb(255, 255, 255);
+}
+#temp-div p {
+    font-size: 60px;
+    margin-top: -30px;
+}
+
+#weather-info {
+    font-size: 20px;
+}
+
+#weather-icon {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 10px; 
+    margin-bottom: 0;
+    display: none;
+}
+
+#hourly-forecast {
+    margin-top: 50px;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hourly-item {
+    flex: 0 0 auto;
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    color: white;
+}
+
+.hourly-item img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 5px;
+}
+
+#hourly-heading {
+    color: #fff;
+    margin-top: 10px;
+}

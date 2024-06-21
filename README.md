@@ -10,8 +10,9 @@
 
 This code is for a single-page weather application named UrWeather. Here's an overview of the project, including its objective:
 
-![127 0 0 1_5500_Task-2_index html(Nest Hub Max) (1)](https://github.com/nihalkshetty2002/CODTECH-Task2/assets/142249656/2dd1ca5e-894c-401a-86f7-b1bbaee7785d)
 ![127 0 0 1_5500_Task-2_index html(Nest Hub Max)](https://github.com/nihalkshetty2002/CODTECH-Task2/assets/142249656/6be8d6d9-c30e-47ec-bc3f-30b64fc26707)
+
+![127 0 0 1_5500_Task-2_index html(Nest Hub Max) (1)](https://github.com/nihalkshetty2002/CODTECH-Task2/assets/142249656/2dd1ca5e-894c-401a-86f7-b1bbaee7785d)
 
 **Objective:**
 
